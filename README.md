@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aessi
 - 👀 I’m interested in cyber security 
-- 🌱 I’m currently learning networking and os basics
+- 🌱 I’m currently learning networking, OS Securtiy, Pentesting, Digital and Mobile Forensics.
 - 💞️ I’m looking to collaborate on CTF challanges and other cybersecurity challanges
 - 📫 How to reach me email me at aessi27@gmail.com
 
